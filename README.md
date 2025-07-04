@@ -5,13 +5,13 @@ This is a C++ console-based **Flight Ticket Booking System** developed as a proj
 
 ## 🛠️ Features
 
-- 👤 User registration and login system
-- 🛫 Search and book flights based on route and date
-- 🎟️ Manage multiple passenger types: adults, children, infants
-- 🚕 Optional cab booking for added convenience
-- 📄 Ticket printing and reservation summary
-- ❌ Cancel existing bookings
-- 🔐 User authentication via credential file
+- User registration and login system
+- Search and book flights based on route and date
+- Manage multiple passenger types: adults, children, infants
+- Optional cab booking for added convenience
+- Ticket printing and reservation summary
+- Cancel existing bookings
+- User authentication via credential file
 
 
 ## 🧱 Technologies Used
